@@ -41,7 +41,7 @@ public class Rodriguez_stangle_module5 {
         }
 
         double average = sum / data.length;
-        ;
+
 
         System.out.println("Average value of array element is " + average);
 
